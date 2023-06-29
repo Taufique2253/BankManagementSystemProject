@@ -1,1 +1,1 @@
-# BankManagementSystemProject
+The Bank Management System project aims to address the challenges faced by traditional banks in managing their operations using outdated manual processes. The project seeks to develop a comprehensive software solution using C++ programming language to automate and streamline various banking functions while improving efficiency, customer experience, and security.
